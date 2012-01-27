@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BowCompanion</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="speed">Speed</string>
+    <string name="count">Count</string>
+    <string name="repeat">Repeat</string>
+    <string name="interval">Interval (second)</string>
+    <string name="comleted">Completed</string>
+    <string name="cancel">Cancel</string>
+    <string name="resume">Resume</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="zero_volume_alert">Audio stream is muted. Proceed?</string>
+    <string name="stop">Stop</string>
+
+</resources>
